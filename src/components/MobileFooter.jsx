@@ -30,7 +30,7 @@ const MobileFooter = ({ setItIsOpen }) => {
 
         <br />
         <br />
-        <img src={Logo} alt="logo" height={"15px"} /> DianiApp &trade; is a partner-based <br />
+        <img src={Logo} alt="logo" height={"15px"} /> RapidExpress &trade; is a partner-based <br />
         <p
           onClick={clicked}
           style={{ color: "#fff", marginBottom:"-35px"}}
@@ -69,7 +69,7 @@ const MobileFooter = ({ setItIsOpen }) => {
         />
       </p>
 
-      <p>&copy; {currentDate} DianiApp. All Rights Reserved</p>
+      <p>&copy; {currentDate} RapidExpress. All Rights Reserved</p>
     </div>
   );
 };

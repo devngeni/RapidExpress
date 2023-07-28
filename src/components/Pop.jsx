@@ -8,7 +8,7 @@ const Pop = ({ setIsOpen }) => {
     <div className="main-pop">
       <div className="popup-main">
         <div className="Logo-container">
-          <img src={logo} alt="Dianiapp" />
+          <img src={logo} alt="RapidExpress" />
         </div>
 
         <h4 className="spec"> Call/text:</h4>
@@ -19,8 +19,8 @@ const Pop = ({ setIsOpen }) => {
         </div>
         <h4> Email:</h4>
         <div className="contacts">
-          <ExternalLink href="mailto:help@dianiapp.com">
-            📩 help@dianiapp.com
+          <ExternalLink href="mailto:help@RapidExpress.com">
+            📩 help@RapidExpress.com
           </ExternalLink>
         </div>
         <div className="close">

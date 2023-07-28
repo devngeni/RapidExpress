@@ -14,7 +14,7 @@ const bookings_idx = rand + (hour*5)
   return (
     <>
     <div className="slack">
-      <h5 style={{color:'#fff'}}><br/>DianiApp is now live<br/><br/> Diani Digital Warriors <br/><br/> Bookings made today : {bookings_idx}<br/><br/> </h5><div className='closer-con' onClick={() => setIsOpen(false)}><h5 className="closer" >+</h5></div>
+      <h5 style={{color:'#fff'}}><br/>RapidExpress is now live<br/><br/> Kigali Digital Warriors <br/><br/> Bookings made today : {bookings_idx}<br/><br/> </h5><div className='closer-con' onClick={() => setIsOpen(false)}><h5 className="closer" >+</h5></div>
     </div>
     </>
   )

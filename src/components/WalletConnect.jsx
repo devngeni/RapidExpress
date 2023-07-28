@@ -61,7 +61,7 @@ function WalletConnect() {
                 <div className="message-wifi">
                 <ReactWhatsapp
                   number={"+254115144146"}
-                  message={"Hi DianiApp 😊"}
+                  message={"Hi RapidExpress 😊"}
                   className="nothing"
                 >
                   {messagetemplate}

@@ -44,7 +44,7 @@ function Nav() {
     <nav>
       <div className="nav-main">
         <div className="Logo-container">
-          <NavLink to="/"><img src={logo} alt="logo image"/></NavLink>
+          <NavLink to="/"><img src={logo} alt="logo image" style={{height:"40px"}}/></NavLink>
         </div>
         <div className="Links-container">
           <NavLink to="/" style={{margin:"auto"}}>
@@ -75,7 +75,7 @@ function Nav() {
         <div className="pwa-con">
           <div className="pwa-btn">
             {/* {supportsPWA ? ( */}
-              <div><h5>Get the Diani App<br/>⭐⭐⭐⭐⭐</h5></div> <button onClick={(e) => addToHomeScreen(e)}>Install</button>
+              <div><h5>Get the Rapid Express<br/>⭐⭐⭐⭐⭐</h5></div> <button onClick={(e) => addToHomeScreen(e)}>Install</button>
             {/* ) : null} */}
           </div>
         </div>

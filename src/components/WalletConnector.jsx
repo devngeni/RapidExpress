@@ -41,7 +41,7 @@ const WalletConnector = () => {
                 {/* <div className="message-wifi">
                   <ReactWhatsapp
                     number={"+254115144146"}
-                    message={"Hi DianiApp 😊"}
+                    message={"Hi RapidExpress 😊"}
                     className="nothing"
                   >
                     {messagetemplate}
@@ -75,7 +75,7 @@ const WalletConnector = () => {
                 <Tab><Link to="/activities"><p>Activities </p></Link></Tab>
                 <Tab><Link to="/NightLife"><p>NightLife </p></Link></Tab>
                 <Tab><Link to="/VIP"><p>VIP </p></Link></Tab>
-                <Tab><a href="https://dianiapp.me/signup/?ori=5363728">{wifi}</a></Tab>
+                <Tab><a href="https://RapidExpress.me/signup/?ori=5363728">{wifi}</a></Tab>
                 {/* <Tab style={{position:"absolute", right:"3vw", bottom: "11vh", zIndex:100, width:"50px", height:"50px"}}>{walletconnectionsmall}</Tab>
                 <Tab style={{position:"absolute", right:"3vw", bottom: "18vh", zIndex:100, width:"50px", height:"50px"}}>{walletconnectionsmall}</Tab> */}
                 <div onClick={() => handleClick()}>

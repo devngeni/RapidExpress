@@ -53,7 +53,7 @@ function Home() {
     {
       name: "Groceries",
       number: "+254115144146",
-      message: "Hello DianiApp 😊 I need groceries 🧅",
+      message: "Hello RapidExpress 😊 I need groceries 🧅",
       className: "whatsapp",
       image: groceries,
       desc: "image desc",
@@ -67,7 +67,7 @@ function Home() {
       <div className="Tabs-container">
       <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Food / drinks 📦"}
+            message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -77,7 +77,7 @@ function Home() {
           </ReactWhatsapp>
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Food / drinks 📦"}
+            message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -103,7 +103,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Food / drinks 📦"}
+            message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -114,7 +114,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Food / drinks 📦"}
+            message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -125,7 +125,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Food / drinks 📦"}
+            message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -139,7 +139,7 @@ function Home() {
        {/* <h4>RENT A {rocket}</h4> */}
        <ReactWhatsapp
               number="+254115144146"
-              message="Hello DianiApp 😊 I need to rent a Scooter/ E-Bike/ Car/ Taxi /Boat 🚗"
+              message="Hello RapidExpress 😊 I need to rent a Scooter/ E-Bike/ Car/ Taxi /Boat 🚗"
               className="whatsapp"
             >
           <div className="Tab-item" style={{display:"flex", justifyContent:"space-around"}}>
@@ -156,7 +156,7 @@ function Home() {
 {/*         
         <ReactWhatsapp
               number="+254115144146"
-              message={"Hello DianiApp 😊 I need  ParcelDelivery / Hire a Tech Guru / Repair 🛠️"}
+              message={"Hello RapidExpress 😊 I need  ParcelDelivery / Hire a Tech Guru / Repair 🛠️"}
               className="whatsapp"
             >
           <div className="Tab-item" style={{display:"flex", justifyContent:"space-around"}}>
@@ -171,7 +171,7 @@ function Home() {
         <h4 style={{marginTop:"30px"}}>24/7 BOOKINGS {bookingicon}</h4>
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need  accomodation 🛌"}
+            message={"Hello RapidExpress 😊 I need  accomodation 🛌"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -182,7 +182,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need a dinner reservation 🍽️"}
+            message={"Hello RapidExpress 😊 I need a dinner reservation 🍽️"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -193,7 +193,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Airport Transportation ✈️"}
+            message={"Hello RapidExpress 😊 I need Airport Transportation ✈️"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -205,7 +205,7 @@ function Home() {
           <h4 style={{marginTop:"30px"}}>BANKING & FX {bankfx}</h4>
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need  Cash & currency exchange 💰"}
+            message={"Hello RapidExpress 😊 I need  Cash & currency exchange 💰"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -216,7 +216,7 @@ function Home() {
 
         <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need to spend some crypto 💸"}
+            message={"Hello RapidExpress 😊 I need to spend some crypto 💸"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -227,7 +227,7 @@ function Home() {
           <div className="shrink-container">
             <ReactWhatsapp
               number={"+254115144146"}
-              message={"Hello DianiApp 😊 I need to spend some crypto 💸"}
+              message={"Hello RapidExpress 😊 I need to spend some crypto 💸"}
               className="shrink"
             >
               <div className="bg">
@@ -238,7 +238,7 @@ function Home() {
 
             <ReactWhatsapp
               number={"+254115144146"}
-              message={"Hello DianiApp 😊 I need to spend some crypto 💸"}
+              message={"Hello RapidExpress 😊 I need to spend some crypto 💸"}
               className="shrink"
             >
               <div className="bg">
@@ -252,7 +252,7 @@ function Home() {
           {/* <h4 style={{marginTop:"30px"}}>FAST SHOPPING {shopping}</h4>
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need shopping 🛒"}
+            message={"Hello RapidExpress 😊 I need shopping 🛒"}
             className="whatsapp"
           >
             <div className="Tab-item" style={{display:"flex", justifyContent:"space-around"}}>
@@ -267,7 +267,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Tech gadgets 📱"}
+            message={"Hello RapidExpress 😊 I need Tech gadgets 📱"}
             className="whatsapp"
           >
             <div className="Tab-item" style={{display:"flex", justifyContent:"space-around"}}>
@@ -281,7 +281,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need to purchase sim cards 📦"}
+            message={"Hello RapidExpress 😊 I need to purchase sim cards 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -292,7 +292,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Package Delivery(Amazon US) 📦"}
+            message={"Hello RapidExpress 😊 I need Package Delivery(Amazon US) 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -303,7 +303,7 @@ function Home() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Package Delivery(Amazon UK/EUR) 📦"}
+            message={"Hello RapidExpress 😊 I need Package Delivery(Amazon UK/EUR) 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -320,4 +320,4 @@ function Home() {
 }
 
 export default Home;
-// caribean jinja diani north coast 
+// caribean jinja Kigali north coast 

@@ -139,7 +139,7 @@ const bookings_idx = rand + (hour*5)
                 <h3 style={{fontSize:"0.9em"}}>EAST AFRICA</h3>
                 {/* <p> &nbsp; &nbsp; {livecon}&nbsp; &nbsp; KENYA</p> */}
                 <Collapsible trigger="◎ KE 🇰🇪 +" className="collapsible">
-                  <p>&nbsp; &nbsp; &nbsp; &nbsp;Diani</p>
+                  <p>&nbsp; &nbsp; &nbsp; &nbsp;Kigali</p>
                   <p>&nbsp; &nbsp; &nbsp; &nbsp;Kilifi</p>
                   <p>&nbsp; &nbsp; &nbsp; &nbsp;Watamu</p>
                   <p>&nbsp; &nbsp; &nbsp; &nbsp;Malindi</p>

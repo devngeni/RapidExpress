@@ -23,7 +23,7 @@ function Fast() {
         <div className="Tabs-container">
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need shopping 🛒"}
+            message={"Hello RapidExpress 😊 I need shopping 🛒"}
             className="whatsapp"
           >
             <div
@@ -45,7 +45,7 @@ function Fast() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Tech gadgets 📱"}
+            message={"Hello RapidExpress 😊 I need Tech gadgets 📱"}
             className="whatsapp"
           >
             <div
@@ -67,7 +67,7 @@ function Fast() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need to purchase sim cards 📦"}
+            message={"Hello RapidExpress 😊 I need to purchase sim cards 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -78,7 +78,7 @@ function Fast() {
 
           <ReactWhatsapp
             number={"+254115144146"}
-            message={"Hello DianiApp 😊 I need Package Delivery(Amazon US) 📦"}
+            message={"Hello RapidExpress 😊 I need Package Delivery(Amazon US) 📦"}
             className="whatsapp"
           >
             <div className="Tab-item">
@@ -90,7 +90,7 @@ function Fast() {
           <ReactWhatsapp
             number={"+254115144146"}
             message={
-              "Hello DianiApp 😊 I need Package Delivery(Amazon UK/EUR) 📦"
+              "Hello RapidExpress 😊 I need Package Delivery(Amazon UK/EUR) 📦"
             }
             className="whatsapp"
           >

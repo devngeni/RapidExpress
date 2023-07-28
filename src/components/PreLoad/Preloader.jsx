@@ -9,7 +9,7 @@ function Preloader() {
         <h2 style={{ marginTop: "45vh" }}>
           {" "}
           <br />
-          Diani App
+          Rapid Express
         </h2>
         <p style={{backgroundColor:"transparent", color:"#fff", textDecoration:"none"}}>Deliveries Bookings Anything Anytime 24/7</p>
       </div>
