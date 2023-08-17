@@ -7,7 +7,7 @@ function VIP() {
   const data = [
     {
       name: "Private Chef",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need a private chef 👨‍🍳",
       className: "whatsapp",
       image: dinner,
@@ -15,7 +15,7 @@ function VIP() {
     },
     {
       name: "Dinner Reservations",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need a dinner reservation 🍽️",
       className: "whatsapp",
       image: fx,
@@ -23,7 +23,7 @@ function VIP() {
     },
     {
       name: "Table Reservation",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need a table reservation 🍽️",
       className: "whatsapp",
       image: fx,
@@ -31,7 +31,7 @@ function VIP() {
     },
     {
       name: "Luxury Transportation",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need luxury transportation 🚙",
       className: "whatsapp",
       image: drink,
@@ -39,7 +39,7 @@ function VIP() {
     },
     {
       name: "Luxury Villas",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊, I need a luxury villa 🏠",
       className: "whatsapp",
       image: food,

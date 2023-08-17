@@ -7,7 +7,7 @@ function NightLife() {
   const data = [
     {
       name: "Dinner Reservation",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need  a dinner reservation 🍝",
       className: "whatsapp",
       image: dinner,
@@ -15,7 +15,7 @@ function NightLife() {
     },
     {
       name: "Table Reservation",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need a table reservation 🍽️",
       className: "whatsapp",
       image: drink,
@@ -23,7 +23,7 @@ function NightLife() {
     },
     {
       name: "Luxury Reservation",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need luxury reservation⚜️",
       className: "whatsapp",
       image: plane,
@@ -31,7 +31,7 @@ function NightLife() {
     },
     {
       name: "Browse Events",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need to browse events 🎆",
       className: "whatsapp",
       image: fx,
@@ -39,7 +39,7 @@ function NightLife() {
     },
     {
       name: "DJ Parties",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need to attend a DJ party 🥳",
       className: "whatsapp",
       image: food,

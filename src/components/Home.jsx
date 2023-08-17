@@ -52,7 +52,7 @@ function Home() {
   const data = [
     {
       name: "Groceries",
-      number: "+254115144146",
+      number: "+254704642722 ",
       message: "Hello RapidExpress 😊 I need groceries 🧅",
       className: "whatsapp",
       image: groceries,
@@ -66,7 +66,7 @@ function Home() {
       <h4 style={{marginTop:"30px"}}>POPULAR SERVICES {rocket}</h4><br/><br/>
       <div className="Tabs-container">
       <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
@@ -76,7 +76,7 @@ function Home() {
             </div>
           </ReactWhatsapp>
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
@@ -102,7 +102,7 @@ function Home() {
         ))}
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
@@ -113,7 +113,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
@@ -124,7 +124,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Food / drinks 📦"}
             className="whatsapp"
           >
@@ -138,7 +138,7 @@ function Home() {
          
        {/* <h4>RENT A {rocket}</h4> */}
        <ReactWhatsapp
-              number="+254115144146"
+              number="+254704642722 "
               message="Hello RapidExpress 😊 I need to rent a Scooter/ E-Bike/ Car/ Taxi /Boat 🚗"
               className="whatsapp"
             >
@@ -155,7 +155,7 @@ function Home() {
 
 {/*         
         <ReactWhatsapp
-              number="+254115144146"
+              number="+254704642722 "
               message={"Hello RapidExpress 😊 I need  ParcelDelivery / Hire a Tech Guru / Repair 🛠️"}
               className="whatsapp"
             >
@@ -170,7 +170,7 @@ function Home() {
 {/* 
         <h4 style={{marginTop:"30px"}}>24/7 BOOKINGS {bookingicon}</h4>
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need  accomodation 🛌"}
             className="whatsapp"
           >
@@ -181,7 +181,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need a dinner reservation 🍽️"}
             className="whatsapp"
           >
@@ -192,7 +192,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Airport Transportation ✈️"}
             className="whatsapp"
           >
@@ -204,7 +204,7 @@ function Home() {
 
           <h4 style={{marginTop:"30px"}}>BANKING & FX {bankfx}</h4>
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need  Cash & currency exchange 💰"}
             className="whatsapp"
           >
@@ -215,7 +215,7 @@ function Home() {
           </ReactWhatsapp>
 
         <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need to spend some crypto 💸"}
             className="whatsapp"
           >
@@ -226,7 +226,7 @@ function Home() {
           </ReactWhatsapp>
           <div className="shrink-container">
             <ReactWhatsapp
-              number={"+254115144146"}
+              number={"+254704642722 "}
               message={"Hello RapidExpress 😊 I need to spend some crypto 💸"}
               className="shrink"
             >
@@ -237,7 +237,7 @@ function Home() {
             </ReactWhatsapp>
 
             <ReactWhatsapp
-              number={"+254115144146"}
+              number={"+254704642722 "}
               message={"Hello RapidExpress 😊 I need to spend some crypto 💸"}
               className="shrink"
             >
@@ -251,7 +251,7 @@ function Home() {
 
           {/* <h4 style={{marginTop:"30px"}}>FAST SHOPPING {shopping}</h4>
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need shopping 🛒"}
             className="whatsapp"
           >
@@ -266,7 +266,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Tech gadgets 📱"}
             className="whatsapp"
           >
@@ -280,7 +280,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need to purchase sim cards 📦"}
             className="whatsapp"
           >
@@ -291,7 +291,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Package Delivery(Amazon US) 📦"}
             className="whatsapp"
           >
@@ -302,7 +302,7 @@ function Home() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Package Delivery(Amazon UK/EUR) 📦"}
             className="whatsapp"
           >

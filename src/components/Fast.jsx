@@ -22,7 +22,7 @@ function Fast() {
         <h4 style={{ marginTop: "30px" }}>FAST SHOPPING {shopping}</h4>
         <div className="Tabs-container">
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need shopping 🛒"}
             className="whatsapp"
           >
@@ -44,7 +44,7 @@ function Fast() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Tech gadgets 📱"}
             className="whatsapp"
           >
@@ -66,7 +66,7 @@ function Fast() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need to purchase sim cards 📦"}
             className="whatsapp"
           >
@@ -77,7 +77,7 @@ function Fast() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={"Hello RapidExpress 😊 I need Package Delivery(Amazon US) 📦"}
             className="whatsapp"
           >
@@ -88,7 +88,7 @@ function Fast() {
           </ReactWhatsapp>
 
           <ReactWhatsapp
-            number={"+254115144146"}
+            number={"+254704642722 "}
             message={
               "Hello RapidExpress 😊 I need Package Delivery(Amazon UK/EUR) 📦"
             }

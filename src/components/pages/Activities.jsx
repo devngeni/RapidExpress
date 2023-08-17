@@ -8,37 +8,37 @@ function Activities() {
     {
         name: "Snorkeling",
         message: "Hi RapidExpress 😊 I'm interested in Snorkeling 🛥️",
-        number: "+254115144146",
+        number: "+254704642722 ",
         background: snorkeling,
     },
     {
       name: "Camel Rides",
       message: "Hi RapidExpress 😊 I'm interested in a Camel Ride",
-      number: "+254115144146",
+      number: "+254704642722 ",
       background: camel,
     },
     {
       name: "Quad",
       message: "Hi RapidExpress 😊 I'm interested in Quad Bike rides",
-      number: "+254115144146",
+      number: "+254704642722 ",
       background: quad,
     },
     {
       name: "Sky diving",
       message: "Hi RapidExpress 😊 I'm interested in Sky Diving ",
-      number: "+254115144146",
+      number: "+254704642722 ",
       background: skydiving,
     },
     {
       name: "Skiing ",
       message: "Hi RapidExpress 😊 I'm interested in Skiing ",
-      number: "+254115144146",
+      number: "+254704642722 ",
       background: skiing,
     },
     {
       name: "Skiing ",
       message: "Hi RapidExpress 😊 I'm interested in Skiing ",
-      number: "+254115144146",
+      number: "+254704642722 ",
       background: sunset,
     },
   ];
