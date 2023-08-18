@@ -44,7 +44,7 @@ function Nav() {
     <nav>
       <div className="nav-main">
         <div className="Logo-container">
-          <NavLink to="/"><img src={logo} alt="logo image" style={{height:"40px"}}/></NavLink>
+          <NavLink to="/"><img src={logo} alt="logo image" style={{height:"auto", width:"80px"}}/></NavLink>
         </div>
         <div className="Links-container">
           <NavLink to="/" style={{margin:"auto"}}>

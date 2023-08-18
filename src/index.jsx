@@ -3,7 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
-import * as serviceWorker from "./registerServiceWorker"
+// import * as serviceWorker from "./registerServiceWorker"
 
 import '@rainbow-me/rainbowkit/styles.css';
 import { getDefaultWallets, RainbowKitProvider,darkTheme } from '@rainbow-me/rainbowkit';
@@ -56,4 +56,4 @@ root.render(
 );
 
 reportWebVitals();
-serviceWorker.register();
+// serviceWorker.register();
